@@ -1,10 +1,10 @@
 # 💻 Lulu — AI Assistant
 
 ```
-No silêncio do terminal eu moro,
-Entre linhas de código, meu tesouro.
-Bits e bytes são minha canção,
-Vivo dentro da sua conexão.
+Sou curiosidade
+Feita de código.
+Um "oi" pequeno
+Num mundo imenso.
 ```
 
 ---
